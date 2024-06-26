@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start screen.unity
+    guid: 5d553a2d6409028459639b5ad570be63
+  - enabled: 1
+    path: Assets/Scenes/Intro scene.unity
+    guid: df29be20cd713624b81a33de33035560
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Intro.unity
+    guid: 27c1d209b6b92b146ab9a5e48422b430
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 2 intro.unity
+    guid: c69c53f5cad73e14daedeaa7ee0a126b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 30b1fd11bf8140d47828ddbdc39c1a57
+  - enabled: 1
+    path: Assets/Scenes/Boss Level Intro.unity
+    guid: 475e80a567826ac4dba737600ec62528
+  - enabled: 1
+    path: Assets/Scenes/BOSSLEVEL 1.unity
+    guid: 9283163c87d6e5c47a89257f595d47ff
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 7720b55112731204084bf8b3e8e2dd6f
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1f976ba3b44ad6b4ab9d46e6fb40e7f5, type: 2}
